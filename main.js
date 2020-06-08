@@ -2,15 +2,6 @@
  * YOUR CODE HERE! *
  *******************/
 
-function yell(){}
-
-  function getFirstCharacter(){}
-  function getLastCharacter(){}
-  function getOneCharacter(){}
-  function getTwoCharacters(){}
-  function makeCapitalized(){}
-  function yellLouder(){}
-  function getInitials(){}
 
 
 
