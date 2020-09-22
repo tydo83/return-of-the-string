@@ -2,15 +2,16 @@
 
 ### Setup
 
-1. Navigate to this directory in your terminal.
-2. Run `npm install` to install the testing library.
-3. Preferably in a full-screen terminal, run `npm test` to start testing.
+1. Fork and clone this repository.
+2. Navigate into this directory in your terminal.
+3. Use `code .` to open the whole directory in Visual Studio Code.
+4. Preferably in a full-screen terminal, run `jest --watch-all` to start testing.
 
 
 ### Workflow
 
-* You'll be working in **`main.js`**!
-* You'll be creating functions according to the specifications given in the tests. Check your terminal for feedback on which aspect of the problem you have yet to complete, and read the specifications' actual code implementation for extra help; it makes explicit exactly what outputs are expected given the test inputs.
+* You'll be working in **`main.js`** this time, NOT `main.test.js`!
+* You'll be creating functions according to the specifications given in the tests in `main.test.js`. Check your terminal for feedback on which aspect of the problem you have yet to complete, and read the specifications' actual code implementation for extra help; it makes explicit exactly what outputs are expected given the test inputs.
 * You will NOT need to call your own functions, except for testing purposes.
 * But now that we're out of the dark dark realm where global variables slither, we won't need to worry about messing things up by testing, either! Call your own functions as often as you find it helpful, and feel free to leave those tests in there if you find that helpful as well. Testing don't cost a thing.
 
